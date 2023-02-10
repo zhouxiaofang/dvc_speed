@@ -708,7 +708,7 @@ class Output:
                 print("success finished otransfer(), self.time_otransfer={}". format(self.time_otransfer))
             
             # t1 = t2
-            # self._checkout(
+            # self._checkout( #dvc源码
             #     filter_info or self.fs_path,
             #     self.fs,
             #     obj,
